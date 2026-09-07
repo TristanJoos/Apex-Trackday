@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_apex_trackday_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.StclientmobileTristanJoosHowest</item>
+    </style>
+
+    <style name="Theme.StclientmobileTristanJoosHowest" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>

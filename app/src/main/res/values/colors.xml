@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="racing_red">#FFE30613</color>
+    <color name="paddock_gradiant_end">#FF1A0000</color>
+    <color name="background">#FF1C1C1C</color>
+    <color name="calander_icon_background">#FF301515</color>
+    <color name="performance_shop_status">#FF3B82F6</color>
+    <color name="performance_shop_icon_background">#FF151B30</color>
+    <color name="card_color">#FF2C2C2C</color>
+</resources>

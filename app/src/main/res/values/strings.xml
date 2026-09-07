@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">st-client-mobile-TristanJoosHowest</string>
+
+    <!--Navigation resources-->
+    <string name="back_button">Back</string>
+    <string name="home_label">Home</string>
+    <string name="tickets_label">Tickets</string>
+    <string name="shop_label">Shop</string>
+    <string name="live_label">Live</string>
+    <string name="map_label">Map</string>
+
+    <string name="recieve_updates">Get Paddock Updates</string>
+    <string name="recieve_updates_subtext">Receive the latest track session results and shop deals.</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="title_performance_shop">Performance Shop</string>
+    <string name="subtitel_performance_shop">Parts, tires &amp; merchandise</string>
+    <string name="status_performance_shop">New arrivals available</string>
+    <string name="titel_calander">Race Calendar</string>
+    <string name="subtitel_calander">View tickets &amp; registrations</string>
+    <string name="status_calander">3 upcoming events</string>
+    <string name="quick_acces">Quick Access</string>
+    <string name="next_sesion">Next Session: Laguna Seca • April 5, 2026</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="the_padock">THE PADDOCK</string>
+    <string name="show_qr">Show QR Code</string>
+    <string name="get_directions">Go - Get Directions</string>
+    <string name="mapbox_access_token"></string>
+</resources>
